@@ -3,31 +3,31 @@
 ---
 
 # Client example
-[verdict](https://nerdmanship.github.io/_verdict-module/dist/)
+[Verdict MMA App](https://nerdmanship.github.io/_verdict-module/dist/)
 
 ---
 
 # Website integration example
-[Firefox](http://s.codepen.io/nerdmanship/debug/rrrajP)
+[Firefox website intro](http://s.codepen.io/nerdmanship/debug/rrrajP)
 
 ---
 
 # Interactive
 
-###[Starwars](https://nerdmanship.github.io/bb8/dist/)
-Hover BB8 for slow motion
++ ###[Starwars](https://nerdmanship.github.io/bb8/dist/)
+  Hover BB8 for slow motion
 
-###[Kinetic type](http://s.codepen.io/nerdmanship/debug/WGzGVy)
-Use keyboard to type
++ ###[Kinetic type](http://s.codepen.io/nerdmanship/debug/WGzGVy)
+  Use keyboard to type
 
-###[Bob the Crab](http://s.codepen.io/nerdmanship/debug/YqdgvG)
-Control characters (buttons)
++ ###[Bob the Crab](http://s.codepen.io/nerdmanship/debug/YqdgvG)
+  Control characters (buttons)
 
-###[Kodama](https://nerdmanship.github.io/kodamaProject/dist/)
-Parallax layers with mouse movement
++ ###[Kodama](https://nerdmanship.github.io/kodamaProject/dist/)
+  Parallax layers with mouse movement
 
-###[Website menu](http://s.codepen.io/nerdmanship/debug/YNEggb)
-Hover icon to open
++ ###[Website menu](http://s.codepen.io/nerdmanship/debug/YNEggb)
+  Hover icon to open
 
 ---
 
