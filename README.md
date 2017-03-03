@@ -12,7 +12,7 @@
 + ## [Verdict MMA App](https://nerdmanship.github.io/_verdict-module/dist/)
 (Animated website header to communicate purpose of product)
 
-## [Firefox website intro](http://s.codepen.io/nerdmanship/debug/rrrajP)(Communicate 'freedom' with animation)
++ ## [Firefox website intro](http://s.codepen.io/nerdmanship/debug/rrrajP)(Communicate 'freedom' with animation)
 
 ---
 
