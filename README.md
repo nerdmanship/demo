@@ -1,36 +1,41 @@
-### Bali Dojo Demo
+###### Bali Dojo Demo
 
 ---
 
-## Client example
+# Client example
 [verdict](https://nerdmanship.github.io/_verdict-module/dist/)
 
 ---
 
-## Website integration example
+# Website integration example
 [Firefox](http://s.codepen.io/nerdmanship/debug/rrrajP)
 
 ---
 
 # Interactive
 
-### Hover BB8 for slow motion
-[Starwars](https://nerdmanship.github.io/bb8/dist/)
+###[Starwars](https://nerdmanship.github.io/bb8/dist/)
+Hover BB8 for slow motion
 
-### Use keyboard to type
-[Kinetic type](http://s.codepen.io/nerdmanship/debug/WGzGVy)
+###[Kinetic type](http://s.codepen.io/nerdmanship/debug/WGzGVy)
+Use keyboard to type
 
-### Control characters (buttons)
-[Bob the Crab](http://s.codepen.io/nerdmanship/debug/YqdgvG)
+###[Bob the Crab](http://s.codepen.io/nerdmanship/debug/YqdgvG)
+Control characters (buttons)
 
-### Parallax layers with mouse movement
-[Kodama](https://nerdmanship.github.io/kodamaProject/dist/)
+###[Kodama](https://nerdmanship.github.io/kodamaProject/dist/)
+Parallax layers with mouse movement
 
-### Hover icon to open menu
-[User Interface](http://s.codepen.io/nerdmanship/debug/YNEggb)
+###[Website menu](http://s.codepen.io/nerdmanship/debug/YNEggb)
+Hover icon to open
 
 ---
 
-## Code examples
-[Dojo Demo](http://codepen.io/nerdmanship/pen/19badb721dffaf9f23fbeda94b51bbf5)
-[Apple](http://codepen.io/nerdmanship/pen/0b7b885593b753fcdb2e7ffaec9bfe0a/)
+# Code examples
+
+###[Dojo Demo](http://codepen.io/nerdmanship/pen/19badb721dffaf9f23fbeda94b51bbf5)
+
+###[Apple](http://codepen.io/nerdmanship/pen/0b7b885593b753fcdb2e7ffaec9bfe0a/)
+
+
+---end of line
