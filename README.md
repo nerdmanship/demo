@@ -1,5 +1,7 @@
 ###### Bali Dojo Demo
 
++ ##Thing
+
 ---
 
 # Client example
@@ -40,7 +42,7 @@
 + ##[Dojo Demo](http://codepen.io/nerdmanship/pen/19badb721dffaf9f23fbeda94b51bbf5)
 (Most basic code example)
 
-+ ##[Apple](http://codepen.io/nerdmanship/pen/0b7b885593b753fcdb2e7ffaec9bfe0a/)
++ ##[Apple logo](http://codepen.io/nerdmanship/pen/0b7b885593b753fcdb2e7ffaec9bfe0a/)
 (Create something interesting with little code)
 
 
