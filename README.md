@@ -1,10 +1,13 @@
 ###### Bali Dojo Demo
 
-+ ##Thing
+
 
 ---
 
 # Client example
+## Client example
+### Client example
++ ### Client example
 
 + ## [Verdict MMA App](https://nerdmanship.github.io/_verdict-module/dist/)
 (Animated website header to communicate purpose)
