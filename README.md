@@ -4,10 +4,12 @@
 
 ---
 
+
 # Client example
 
 + ## [Verdict MMA App](https://nerdmanship.github.io/_verdict-module/dist/)
 (Animated website header to communicate purpose of product)
+
 
 # Website integration example
 
