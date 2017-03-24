@@ -1,4 +1,4 @@
-###### Demo
+###### Nerdmanship Experiements Demo
 
 ---
 
@@ -17,32 +17,33 @@
 ---
 
 # Interactive
-+ ##[Kaonashi](http://codepen.io/nerdmanship/full/RpoYOL/)
-(The characters attention follows your mouse around)
 
-+ ##[Starwars](https://nerdmanship.github.io/bb8/dist/)
++ [Kaonashi](http://codepen.io/nerdmanship/full/RpoYOL/)
+(The character's attention follows your mouse around)
+
++ [Starwars](https://nerdmanship.github.io/bb8/dist/)
 (Hover BB8 for slow motion)
 
-+ ##[Kodama](https://nerdmanship.github.io/kodamaProject/dist/)
++ [Kodama](https://nerdmanship.github.io/kodamaProject/dist/)
 (Parallax layers with mouse movement)
 
-+ ##[Kinetic type](http://s.codepen.io/nerdmanship/debug/WGzGVy)
++ [Kinetic type](http://s.codepen.io/nerdmanship/debug/WGzGVy)
 (Use keyboard to type)
 
-+ ##[Bob the Crab](http://s.codepen.io/nerdmanship/debug/YqdgvG)
++ [Bob the Crab](http://s.codepen.io/nerdmanship/debug/YqdgvG)
 (Control characters with buttons)
 
-+ ##[Website menu](http://s.codepen.io/nerdmanship/debug/YNEggb)
++ [Website menu](http://s.codepen.io/nerdmanship/debug/YNEggb)
 (Hover icon to open)
 
 ---
 
 # Code examples
 
-+ ##[Dojo Demo](http://codepen.io/nerdmanship/pen/19badb721dffaf9f23fbeda94b51bbf5)
++ [Dojo Demo](http://codepen.io/nerdmanship/pen/19badb721dffaf9f23fbeda94b51bbf5)
 (Most basic code example)
 
-+ ##[Apple logo](http://codepen.io/nerdmanship/pen/0b7b885593b753fcdb2e7ffaec9bfe0a/)
++ [Apple logo](http://codepen.io/nerdmanship/pen/0b7b885593b753fcdb2e7ffaec9bfe0a/)
 (Create something interesting with little code)
 
 
