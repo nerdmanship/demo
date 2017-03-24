@@ -1,4 +1,4 @@
-###### Bali Dojo Demo
+###### Demo
 
 ---
 
@@ -18,17 +18,20 @@
 
 # Interactive
 
++ ##[Kaonashi](http://codepen.io/nerdmanship/full/RpoYOL/){:target="_blank"}
+(The characters attention follows your mouse around)
+
 + ##[Starwars](https://nerdmanship.github.io/bb8/dist/)
 (Hover BB8 for slow motion)
+
++ ##[Kodama](https://nerdmanship.github.io/kodamaProject/dist/)
+(Parallax layers with mouse movement)
 
 + ##[Kinetic type](http://s.codepen.io/nerdmanship/debug/WGzGVy)
 (Use keyboard to type)
 
 + ##[Bob the Crab](http://s.codepen.io/nerdmanship/debug/YqdgvG)
 (Control characters with buttons)
-
-+ ##[Kodama](https://nerdmanship.github.io/kodamaProject/dist/)
-(Parallax layers with mouse movement)
 
 + ##[Website menu](http://s.codepen.io/nerdmanship/debug/YNEggb)
 (Hover icon to open)
