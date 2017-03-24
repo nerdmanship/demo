@@ -17,7 +17,6 @@
 ---
 
 # Interactive
-
 + ##[Kaonashi](http://codepen.io/nerdmanship/full/RpoYOL/)
 (The characters attention follows your mouse around)
 
