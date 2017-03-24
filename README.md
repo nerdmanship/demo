@@ -18,7 +18,7 @@
 
 # Interactive
 
-+ ##[Kaonashi](http://codepen.io/nerdmanship/full/RpoYOL/){:target="_blank"}
++ ##[Kaonashi](http://codepen.io/nerdmanship/full/RpoYOL/)
 (The characters attention follows your mouse around)
 
 + ##[Starwars](https://nerdmanship.github.io/bb8/dist/)
